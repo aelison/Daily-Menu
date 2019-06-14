@@ -28,10 +28,10 @@ Na aba "Estatísticas" podemos observar a quantidade total, preço total e médi
 
 ![](imagesave/imgestatisticass.png)
 
-Caso aconteça algum erro incrementado nos valores dos produtos, na aba "Editar" pode digitar o nome do produto e alterar seus valores em "Editar", disponibilizando a opção de retirar um produto especifico.
+Caso aconteça algum erro incrementado nos valores dos produtos, na aba "Editar" pode digitar o nome do produto e alterar seus valores em "Editar", disponibilizando também a opção de retirar um produto especifico.
 
 ![](imagesave/imgeditarr.png)
 
-O progama também permite salvar e carregar um arquivo em Excel:
+O progama também permite salvar e carregar um arquivo em Excel, e limpar todos os dados inseridos.
 
 ![](imagesave/imgsalvarr.png)
