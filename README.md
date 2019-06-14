@@ -7,31 +7,31 @@ Projeto feito utilizando Qt Creator para a disciplina de Técnicas de Programaç
 Daily Menu tem como objetivo de criar um cardápio onde se pode adicionar/retirar produtos em um dia de vendas em um bar/restaurante. 
 O Cardápio Diário além de criar uma lista com os produtos e suas respectivas quantidades, mostra ao usuário seus valores totais que se espera arrecadar por produto
 
-![](image/img1.png)
+![](imagesave/img11.png)
 
 Mostra a quantidade total de itens o objeto com o maior preço e o menor. 
 
-![](image/img2.png)
+![](imagesave/img22.png)
 
 Permite o usuário editar os itens inseridos na tabela caso haver erros da incrementação dos produtos pelo usuário.
 
-![](image/img3.png)
+![](imagesave/img33.png)
 
 Manual do usuário
 --------------------------
 A utilização é simples, o usuário acrescenta o nome do produto(aceitando apenas letras), sua quantidade(apenas em números inteiros) e seu valor(recebe valores quebrados com utilização de ponto, ex "25.50"), depois utiliza o botão "Adicionar" para inserir os dados na tabela.Existindo a possiblidade também de organizar os produtos por; Ordem alfabética,quantidade ,preço unitário e preço total. 
 
-![](image/imginserir.png)
-![](image/imgnatabela.png)
+![](imagesave/imginserirr.png)
+![](imagesave/imgnatabelaa.png)
 
 Na aba "Estatísticas" podemos observar a quantidade total, preço total e média dos preços dos produtos;
 
-![](image/imgestatisticas.png)
+![](imagesave/imgestatisticass.png)
 
 Caso aconteça algum erro incrementado nos valores dos produtos, na aba "Editar" pode digitar o nome do produto e alterar seus valores em "Editar", disponibilizando a opção de retirar um produto especifico.
 
-![](image/imgeditar.png)
+![](imagesave/imgeditarr.png)
 
 O progama também permite salvar e carregar um arquivo em Excel:
 
-![](image/imgsalvar.png)
+![](imagesave/imgsalvarr.png)
