@@ -24,7 +24,7 @@ A utilização é simples, o usuário acrescenta o nome do produto(aceitando ape
 ![](imagesave/imginserirr.png)
 ![](imagesave/imgnatabelaa.png)
 
-Na aba "Estatísticas" podemos observar a quantidade total, preço total e média dos preços dos produtos;
+Na aba "Estatísticas" podemos observar a quantidade total, preço total e média dos preços dos produtos
 
 ![](imagesave/imgestatisticass.png)
 
@@ -32,6 +32,6 @@ Caso aconteça algum erro incrementado nos valores dos produtos, na aba "Editar"
 
 ![](imagesave/imgeditarr.png)
 
-O progama também permite salvar e carregar um arquivo em Excel, e limpar todos os dados inseridos.
+O progama também permite salvar e carregar um arquivo em Excel, e limpar todos os dados inseridos com o botão "limpar" no canto inferior direito.
 
 ![](imagesave/imgsalvarr.png)
