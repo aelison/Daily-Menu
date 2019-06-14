@@ -7,7 +7,7 @@ Projeto feito utilizando Qt Creator para a disciplina de Técnicas de Programaç
 Daily Menu tem como objetivo de criar um cardápio onde se pode adicionar/retirar produtos em um dia de vendas em um bar/restaurante. 
 O Cardápio Diário além de criar uma lista com os produtos e suas respectivas quantidades, mostra ao usuário seus valores totais que se espera arrecadar por produto
 
-imagemprimaria
+![](image/img1.png)
 
 Mostra a quantidade total de itens o objeto com o maior preço e o menor. 
 
