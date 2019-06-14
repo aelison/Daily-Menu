@@ -17,7 +17,7 @@ Permite o usuário editar os itens inseridos na tabela caso haver erros da incre
 
 imagemaba3
 
-###Manual do usuário
+##Manual do usuário
 --------------------------
 A utilização é simples, o usuário acrescenta o nome do produto(aceitando apenas letras), sua quantidade(apenas em números inteiros) e seu valor(recebe valores quebrados com utilização de ponto, ex "25.50"), depois utiliza o botão "Adicionar" para inserir os dados na tabela.
 
