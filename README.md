@@ -11,11 +11,11 @@ O Cardápio Diário além de criar uma lista com os produtos e suas respectivas 
 
 Mostra a quantidade total de itens o objeto com o maior preço e o menor. 
 
-imagemaba2
+![](image/img2.png)
 
 Permite o usuário editar os itens inseridos na tabela caso haver erros da incrementação dos produtos pelo usuário.
 
-imagemaba3
+![](image/img3.png)
 
 Manual do usuário
 --------------------------
