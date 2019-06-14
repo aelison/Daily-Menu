@@ -28,7 +28,7 @@ Na aba "Estatísticas" podemos observar a quantidade total, preço total e médi
 
 ![](imagesave/imgestatisticass.png)
 
-Caso aconteça algum erro incrementado nos valores dos produtos, na aba "Editar" pode digitar o nome do produto e depois apertar o botão "Procurar" depois alterar seus valores em "Editar" ou retirar o produto no botão "Excluir";
+Caso aconteça algum erro incrementado nos valores dos produtos, na aba "Editar" pode digitar o nome do produto e depois apertar o botão "Procurar" depois alterar seus valores em "Editar" ou retirar o produto no botão "Excluir", caso tenha procurado um produto errado ou caso queira limpar todas as linhas aperte "Cancelar";
 
 ![](imagesave/imgeditarr.png)
 
