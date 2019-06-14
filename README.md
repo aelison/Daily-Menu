@@ -21,17 +21,17 @@ Manual do usuário
 --------------------------
 A utilização é simples, o usuário acrescenta o nome do produto(aceitando apenas letras), sua quantidade(apenas em números inteiros) e seu valor(recebe valores quebrados com utilização de ponto, ex "25.50"), depois utiliza o botão "Adicionar" para inserir os dados na tabela.Existindo a possiblidade também de organizar os produtos por; Ordem alfabética,quantidade ,preço unitário e preço total. 
 
-imagemiteminserido 
-imagemnatabela 
+![](image/imginserir.png)
+![](image/imgnatabela.png)
 
 Na aba "Estatísticas" podemos observar a quantidade total, preço total e média dos preços dos produtos;
 
-imagemestatisticas
+![](image/imgestatisticas.png)
 
 Caso aconteça algum erro incrementado nos valores dos produtos, na aba "Editar" pode digitar o nome do produto e alterar seus valores em "Editar"
 
-imagemdaabaeditar 
+![](image/imgeditar.png)
 
 O progama também permite salvar e carregar um arquivo em Excel:
 
-imagensnosalvamentoecarregamentodalista;
+![](image/imgsalvar.png)
